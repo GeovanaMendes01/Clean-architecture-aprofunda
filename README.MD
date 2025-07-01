@@ -18,13 +18,13 @@ A API possui as seguintes rotas:
 ### POST
 Cria um novo livro.
 
-![POST](./API/prints/POST.png)
+![POST](./api-clean-architecture/prints/POST.png)
 
 ### GET
 Lista todos os livros cadastrados.
 
-![GET](./API/prints/GET.png)
-![Response GET](./API/prints/GETresponse.png)
+![GET](./api-clean-architecture/prints/GET.png)
+![Response GET](./api-clean-architecture/prints/GETresponse.png)
 
 
 ## Observações
